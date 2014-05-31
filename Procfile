@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n lucas
+web: bin/hubot -a campfire -a twilio -n lucas
